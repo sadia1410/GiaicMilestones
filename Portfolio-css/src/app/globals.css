@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+@keyframes fadeZoom {
+  0% {
+    color: #333;
+    transform: scale(1);
+    opacity: 1;
+    width: 0; /* Start with no width */
+  }
+  100% {
+    color: #ff6347; /* Change color to tomato */
+    transform: scale(1.2);
+    opacity: 0.8;
+    width: 100%; /* End at full width */
+  }
+}
