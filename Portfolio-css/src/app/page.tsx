@@ -9,7 +9,7 @@ export default function home(){
       {/* start main section div */}
       <div>
       <div style={{paddingLeft:"70px",height:"40px",background:"#2a2b2b",marginLeft:"15%",marginRight:"15%",display:"flex",gap:"10%",color:"white", paddingTop:"8px"}}>
-         <div><strong  ><b style={{color:"red"}}>Naj</b>af</strong></div>
+         <div><strong  ><b style={{color:"red"}}>Sad</b>ia</strong></div>
          <div>Portfolio</div>
          <div>Services</div>
          <div>Experience</div>
@@ -18,8 +18,8 @@ export default function home(){
          </div>
       <div style={{background:"white",marginLeft:"15%",marginRight:"15%",height:"20%",display:"flex",gap:"30%"}}>
         <div style={{paddingLeft:"100px",paddingTop:"50px",paddingBottom:"50px",fontSize:"100%"}}>
-          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}> Najaf Ali</strong> <br></br> a Frontend Developer</strong>  <br></br>
-          <p>I'm Najaf Ali, a UI/UX designer & front-end web developer. Focused on creating unique,
+          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}>Sadia</strong> <br></br> a Frontend Developer</strong>  <br></br>
+          <p>I'm Sadia Asif Khan, a UI/UX designer & front-end web developer. Focused on creating unique,
              results-driven digital experiences through clean and functional design.r</p>
              <br></br> <br></br>
              <strong style={{background:"black",color:"white",marginRight:"5%",borderStyle:"solid",borderRadius:"5px",padding:"6px"}}>Hire Me</strong>
