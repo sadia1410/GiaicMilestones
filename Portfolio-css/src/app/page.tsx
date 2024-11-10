@@ -1,5 +1,5 @@
 import Image from "next/image"
-import yamman from "..//..//image/najaf.png"
+import yamman from "../../image/sadia.png"
 export default function home(){
   return(
     <body style={{background:"#fc833d"}}>
@@ -18,8 +18,8 @@ export default function home(){
          </div>
       <div style={{background:"white",marginLeft:"15%",marginRight:"15%",height:"20%",display:"flex",gap:"30%"}}>
         <div style={{paddingLeft:"100px",paddingTop:"50px",paddingBottom:"50px",fontSize:"100%"}}>
-          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}>Sadia</strong> <br></br> a Frontend Developer</strong>  <br></br>
-          <p>I'm Sadia Asif Khan, a UI/UX designer & front-end web developer. Focused on creating unique,
+          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I am<strong style={{color:"orange"}}>Sadia</strong> <br></br> a Frontend Developer</strong>  <br></br>
+          <p>I am Sadia Asif Khan, a UI/UX designer & front-end web developer. Focused on creating unique,
              results-driven digital experiences through clean and functional design.r</p>
              <br></br> <br></br>
              <strong style={{background:"black",color:"white",marginRight:"5%",borderStyle:"solid",borderRadius:"5px",padding:"6px"}}>Hire Me</strong>
@@ -27,7 +27,7 @@ export default function home(){
 
           </div>
         <div>
-          <Image src={yamman} alt="" width="1500" height="1500" style={{paddingRight:"30px",paddingTop:"30px"}} />
+          <Image src={sadia} alt="" width="1500" height="1500" style={{paddingRight:"30px",paddingTop:"30px"}} />
         </div>
 
       </div>
