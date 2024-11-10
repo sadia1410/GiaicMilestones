@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image"
-import yamman from "..//..//image/yamman.png"
+import sadia from "../../image/sadia.png"
 export default function home(){
   return(
     <div>
@@ -23,8 +23,8 @@ export default function home(){
         {/* style={{background:"white",marginLeft:"15%",marginRight:"15%",height:"20%",display:"flex",gap:"30%" */}
         <div className="pl-[100px] pt-[50px] pb-[50px] text-[100%] w-[80%]" >
         {/* paddingLeft:"100px",paddingTop:"50px",paddingBottom:"50px",fontSize:"100%" */}
-          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I'm<strong style={{color:"orange"}}> Sadia</strong> <br></br> a Frontend Developer</strong>  <br></br>
-          <p>I'm Sadia Asif Khan, a UI/UX designer & front-end web developer. Focused on creating unique,
+          <strong style={{animation: "fadeZoom 2s infinite alternate"}} >Hi < br></br>I am<strong style={{color:"orange"}}> Sadia</strong> <br></br> a Frontend Developer</strong>  <br></br>
+          <p>I am Sadia Asif Khan, a UI/UX designer & front-end web developer. Focused on creating unique,
              results-driven digital experiences through clean and functional design.The visionary founder of nysquiz, Sadia is the creative mind
              behind the platform, making interactive learning accessible through AI-generated quizzes tailored to user preferences.
              </p>
@@ -36,7 +36,7 @@ export default function home(){
 
           </div>
         <div>
-          <Image src={yamman} alt="" width="500" height="500" style={{paddingRight:"30px",paddingTop:"30px"}} />
+          <Image src={sadia} alt="" width="500" height="500" style={{paddingRight:"30px",paddingTop:"30px"}} />
         </div>
 
       </div>
