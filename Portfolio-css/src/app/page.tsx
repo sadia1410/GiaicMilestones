@@ -1,5 +1,5 @@
 import Image from "next/image"
-import yamman from "../../image/sadia.png"
+import sadia from "../../image/sadia.png"
 export default function home(){
   return(
     <body style={{background:"#fc833d"}}>
