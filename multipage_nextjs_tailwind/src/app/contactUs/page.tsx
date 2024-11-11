@@ -1,5 +1,5 @@
 export default function ContactUs(){
-    return(
+    return( 
       <div>
        
         {/* ContactUs page */}
