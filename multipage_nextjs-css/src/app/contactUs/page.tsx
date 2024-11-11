@@ -33,5 +33,5 @@ export default function ContactUs(){
 {/* closing contactus page */}
       </div>
     )
-  }
+  } 
   
