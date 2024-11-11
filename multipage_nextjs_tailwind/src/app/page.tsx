@@ -32,7 +32,7 @@ export default function Home(){
       </div>
     </div>
   )
-}
+} 
 // , gridColumn:"1",justifyContent:"center", background:"#f5f5f5",width:"70%", marginLeft:"15%"
 // padding:"2%",borderStyle:"solid", borderRadius:"20px",borderWidth:"2px",borderColor:"black"
 // padding:"2%",borderStyle:"solid", borderRadius:"20px",borderWidth:"2px",borderColor:"black"
