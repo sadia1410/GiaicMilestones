@@ -1,7 +1,7 @@
 "use client"
 import React from "react"
 export default function AboutUs(){
-    return(
+    return( 
       <div>
 
         <div  className="bg-[#f5f5f5] h-[70%] w-[80%] ml-[10%] mt-[5%] pb-[7%] border-solid rounded-[20px]">
